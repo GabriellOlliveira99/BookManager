@@ -1,202 +1,211 @@
 {
-    "biblioteca": [
-        {
-            "id": 1,
-            "titulo": "Dom Quixote",
-            "autor": "Miguel de Cervantes",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1605,
-            "paginas": 863
-        },
-        {
-            "id": 2,
-            "titulo": "1984",
-            "autor": "George Orwell",
-            "genero": "Ficção Distópica",
-            "status": "Disponível",
-            "ano_publicacao": 1949,
-            "paginas": 328
-        },
-        {
-            "id": 3,
-            "titulo": "O Senhor dos Anéis",
-            "autor": "J.R.R. Tolkien",
-            "genero": "Fantasia",
-            "status": "Disponível",
-            "ano_publicacao": 1954,
-            "paginas": 1216
-        },
-        {
-            "id": 4,
-            "titulo": "Orgulho e Preconceito",
-            "autor": "Jane Austen",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1813,
-            "paginas": 279
-        },
-        {
-            "id": 5,
-            "titulo": "O Pequeno Príncipe",
-            "autor": "Antoine de Saint-Exupéry",
-            "genero": "Fábula",
-            "status": "Disponível",
-            "ano_publicacao": 1943,
-            "paginas": 96
-        },
-        {
-            "id": 6,
-            "titulo": "A Revolução dos Bichos",
-            "autor": "George Orwell",
-            "genero": "Ficção Satírica",
-            "status": "Disponível",
-            "ano_publicacao": 1945,
-            "paginas": 112
-        },
-        {
-            "id": 7,
-            "titulo": "Cem Anos de Solidão",
-            "autor": "Gabriel García Márquez",
-            "genero": "Realismo Mágico",
-            "status": "Disponível",
-            "ano_publicacao": 1967,
-            "paginas": 417
-        },
-        {
-            "id": 8,
-            "titulo": "Moby Dick",
-            "autor": "Herman Melville",
-            "genero": "Aventura",
-            "status": "Disponível",
-            "ano_publicacao": 1851,
-            "paginas": 635
-        },
-        {
-            "id": 9,
-            "titulo": "Crime e Castigo",
-            "autor": "Fiódor Dostoiévski",
-            "genero": "Ficção Psicológica",
-            "status": "Disponível",
-            "ano_publicacao": 1866,
-            "paginas": 671
-        },
-        {
-            "id": 10,
-            "titulo": "O Grande Gatsby",
-            "autor": "F. Scott Fitzgerald",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1925,
-            "paginas": 180
-        },
-        {
-            "id": 11,
-            "titulo": "Ulisses",
-            "autor": "James Joyce",
-            "genero": "Ficção Modernista",
-            "status": "Disponível",
-            "ano_publicacao": 1922,
-            "paginas": 730
-        },
-        {
-            "id": 12,
-            "titulo": "A Divina Comédia",
-            "autor": "Dante Alighieri",
-            "genero": "Poesia Épica",
-            "status": "Disponível",
-            "ano_publicacao": 1320,
-            "paginas": 798
-        },
-        {
-            "id": 13,
-            "titulo": "O Apanhador no Campo de Centeio",
-            "autor": "J.D. Salinger",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1951,
-            "paginas": 277
-        },
-        {
-            "id": 14,
-            "titulo": "As Aventuras de Huckleberry Finn",
-            "autor": "Mark Twain",
-            "genero": "Aventura",
-            "status": "Disponível",
-            "ano_publicacao": 1884,
-            "paginas": 366
-        },
-        {
-            "id": 15,
-            "titulo": "Jane Eyre",
-            "autor": "Charlotte Brontë",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1847,
-            "paginas": 500
-        },
-        {
-            "id": 16,
-            "titulo": "O Conde de Monte Cristo",
-            "autor": "Alexandre Dumas",
-            "genero": "Aventura",
-            "status": "Disponível",
-            "ano_publicacao": 1844,
-            "paginas": 1276
-        },
-        {
-            "id": 17,
-            "titulo": "Drácula",
-            "autor": "Bram Stoker",
-            "genero": "Terror",
-            "status": "Disponível",
-            "ano_publicacao": 1897,
-            "paginas": 418
-        },
-        {
-            "id": 18,
-            "titulo": "Frankenstein",
-            "autor": "Mary Shelley",
-            "genero": "Terror",
-            "status": "Disponível",
-            "ano_publicacao": 1818,
-            "paginas": 280
-        },
-        {
-            "id": 19,
-            "titulo": "Os Miseráveis",
-            "autor": "Victor Hugo",
-            "genero": "Drama",
-            "status": "Disponível",
-            "ano_publicacao": 1862,
-            "paginas": 1463
-        },
-        {
-            "id": 20,
-            "titulo": "O Morro dos Ventos Uivantes",
-            "autor": "Emily Brontë",
-            "genero": "Romance",
-            "status": "Disponível",
-            "ano_publicacao": 1847,
-            "paginas": 416
-        },
-        {
-            "id": 21,
-            "titulo": "A Metamorfose",
-            "autor": "Franz Kafka",
-            "genero": "Ficção",
-            "status": "Disponível",
-            "ano_publicacao": 1915,
-            "paginas": 74
-        },
-        {
-            "id": 22,
-            "titulo": "O Retrato de Dorian Gray",
-            "autor": "Oscar Wilde",
-            "genero": "Ficção Gótica",
-            "status": "Disponível",
-            "ano_publicacao": 1890,
-            "paginas": 254
-        }
-    ]
+  "biblioteca": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "genero": "Romance",
+      "status": "Disponível",
+      "ano_publicacao": 1605,
+      "paginas": 863
+    },
+    {
+      "id": 2,
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Ficção Distópica",
+      "status": "Emprestado",
+      "ano_publicacao": 1949,
+      "paginas": 328
+    },
+    {
+      "id": 3,
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "genero": "Fantasia",
+      "status": "Disponível",
+      "ano_publicacao": 1954,
+      "paginas": 1216
+    },
+    {
+      "id": 4,
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "genero": "Romance",
+      "status": "Emprestado",
+      "ano_publicacao": 1813,
+      "paginas": 279
+    },
+    {
+      "id": 5,
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "genero": "Fábula",
+      "status": "Disponível",
+      "ano_publicacao": 1943,
+      "paginas": 96
+    },
+    {
+      "id": 6,
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "genero": "Ficção Satírica",
+      "status": "Emprestado",
+      "ano_publicacao": 1945,
+      "paginas": 112
+    },
+    {
+      "id": 7,
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo Mágico",
+      "status": "Disponível",
+      "ano_publicacao": 1967,
+      "paginas": 417
+    },
+    {
+      "id": 8,
+      "titulo": "Moby Dick",
+      "autor": "Herman Melville",
+      "genero": "Aventura",
+      "status": "Disponível",
+      "ano_publicacao": 1851,
+      "paginas": 635
+    },
+    {
+      "id": 9,
+      "titulo": "Crime e Castigo",
+      "autor": "Fiódor Dostoiévski",
+      "genero": "Ficção Psicológica",
+      "status": "Disponível",
+      "ano_publicacao": 1866,
+      "paginas": 671
+    },
+    {
+      "id": 10,
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "genero": "Romance",
+      "status": "Disponível",
+      "ano_publicacao": 1925,
+      "paginas": 180
+    },
+    {
+      "id": 11,
+      "titulo": "Ulisses",
+      "autor": "James Joyce",
+      "genero": "Ficção Modernista",
+      "status": "Disponível",
+      "ano_publicacao": 1922,
+      "paginas": 730
+    },
+    {
+      "id": 12,
+      "titulo": "A Divina Comédia",
+      "autor": "Dante Alighieri",
+      "genero": "Poesia Épica",
+      "status": "Disponível",
+      "ano_publicacao": 1320,
+      "paginas": 798
+    },
+    {
+      "id": 13,
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "genero": "Romance",
+      "status": "Emprestado",
+      "ano_publicacao": 1951,
+      "paginas": 277
+    },
+    {
+      "id": 14,
+      "titulo": "As Aventuras de Huckleberry Finn",
+      "autor": "Mark Twain",
+      "genero": "Aventura",
+      "status": "Disponível",
+      "ano_publicacao": 1884,
+      "paginas": 366
+    },
+    {
+      "id": 15,
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "genero": "Romance",
+      "status": "Disponível",
+      "ano_publicacao": 1847,
+      "paginas": 500
+    },
+    {
+      "id": 16,
+      "titulo": "O Conde de Monte Cristo",
+      "autor": "Alexandre Dumas",
+      "genero": "Aventura",
+      "status": "Disponível",
+      "ano_publicacao": 1844,
+      "paginas": 1276
+    },
+    {
+      "id": 17,
+      "titulo": "Drácula",
+      "autor": "Bram Stoker",
+      "genero": "Terror",
+      "status": "Emprestado",
+      "ano_publicacao": 1897,
+      "paginas": 418
+    },
+    {
+      "id": 18,
+      "titulo": "Frankenstein",
+      "autor": "Mary Shelley",
+      "genero": "Terror",
+      "status": "Disponível",
+      "ano_publicacao": 1818,
+      "paginas": 280
+    },
+    {
+      "id": 19,
+      "titulo": "Os Miseráveis",
+      "autor": "Victor Hugo",
+      "genero": "Drama",
+      "status": "Disponível",
+      "ano_publicacao": 1862,
+      "paginas": 1463
+    },
+    {
+      "id": 20,
+      "titulo": "O Morro dos Ventos Uivantes",
+      "autor": "Emily Brontë",
+      "genero": "Romance",
+      "status": "Disponível",
+      "ano_publicacao": 1847,
+      "paginas": 416
+    },
+    {
+      "id": 21,
+      "titulo": "A Metamorfose",
+      "autor": "Franz Kafka",
+      "genero": "Ficção",
+      "status": "Disponível",
+      "ano_publicacao": 1915,
+      "paginas": 74
+    },
+    {
+      "id": 22,
+      "titulo": "O Retrato de Dorian Gray",
+      "autor": "Oscar Wilde",
+      "genero": "Ficção Gótica",
+      "status": "Emprestado",
+      "ano_publicacao": 1890,
+      "paginas": 254
+    },
+    {
+      "id": 23,
+      "titulo": "Mais Esperto que o Diabo",
+      "autor": "Napoleon Hill",
+      "genero": "Desenvolvimento Pessoal",
+      "status": "Disponível",
+      "ano_publicacao": 2011,
+      "paginas": 272
+    }
+  ]
 }
